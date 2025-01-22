@@ -1,0 +1,48 @@
+Mon illes flotants
+Post apocaliptic
+Societat alternativa Subdesenvolupada
+Illes; 1a Boscós i amb vent
+Nucli Planeta Gema
+Historia
+Rerefons;
+{Guerra(Explosió que modifica el nucli del planeta)Cataclisme;Creació d'illes, Destrucció de la civilització; Enemic principal; Nucli del planeta(gema fosca que varia segons la zona) Objectiu recuperar la terra fent servir els taladros
+223 any PC (Post Cataclisme); Contaminació a causa del nucli;
+} "Cinematica"
+
+}{El personatge (Nir) comença en unes plataformes alluyades de la primera illa (Bosc) buscant un regal de cumpleanys per a la seva mare. Troba una gema (blanca) que brilla; guanya el poder de deixar anar explosions de llum;}
+"Tutorial de moviment"
+
+{Apareix un raig de llum negra
+ i el personatge pensa que hauria de tornar; tornant es troba a enemics infectats i agafa una rama per protegir-se (no fa dany), fent servir la gema i la rama els venç;
+Arriba a la ciutat
+}
+"Tutorial 1 habilitat"
+
+
+CIUTAT;
+Algú li explica que el raig de llum ha destruit el poble i ha canviat a les persones;
+Nir pensa si la seva mare esta bé;
+zombis ataquen;
+derrota als zombis;
+busca a la seva mare i la troba en modo zombi; veu com la seva mare es menja zombis; i es transforma;
+es converteix en un monstre;
+has de vencer al monstre; Finalment amb la gema absorveixes al monstre i la seva habilitat (Puño de cristal) que permet trencar obstacles.
+El alcalde del poble (Villa Billvon) et diu que necessiten que vagis a la ciutat seguent(Villa Dododoro) (que esta a una altra illa) a demanar ajuda; pero que abans vagis a veure 
+al "herrero" per que et doni una espasa;
+Arribes al herrero; que esta mort; i agafes una espasa de la estanteria; quan la agafes la gema s'hi engaxa.
+
+
+(Unes cuantes pantalles despres)
+
+
+
+
+Arribes a la illa seguent (Gel);
+
+(Unes cuantes pantalles despres)
+
+Arribes a la ciutat; et trobes un mercat; continues fins a l'ajuntament; i demanes veuret amb el alcalde; decideixes tornar al mercat mentres esperes; i quan surts et trobes al alcalde parlant amb gent de la ciutat veïna, que s'emporten la aguila missatgera.
+Parles amb el alcalde i et demana que rescatis la aguila; et marca un punt al minimapa)
+
+
+

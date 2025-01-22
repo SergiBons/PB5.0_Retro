@@ -1,0 +1,4 @@
+Float = Decimals
+Int = No decimals
+String ("")
+Bool (True/False)

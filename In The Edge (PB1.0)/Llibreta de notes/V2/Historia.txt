@@ -1,0 +1,73 @@
+Contextualització:
+
+La Corrupció: "Alien" "Castig diví" "Desde el principi dels temps" "Conglomeració de animes en pena desprès d'una GUERRA" 
+
+Arma: Origen de l'arma, Creació de màgia antiga amb l'objectiu de capturar i contenir La Corrupció. Absorbeix l'anima de cualsevol caigut davant la corrupció
+
+HUD: Apretant/mantenint un botò, claves l'espasa i obres el HUD. Conté el arbre de passives del personatge, les armes i el seu progrés. 
+
+Obtenció d'armes: BOSSOS.
+
+Obtenció d'habilitats: Lligat al progrés de la història. Quan mates a un Boss, i agafes el troç de l'arma corresponent, tens una visió del boss en forma humana fent servir una
+			habilitat contra la corrupció. Obtens aquesta habilitat.
+
+LVL up: (
+ A les armes, Pugen de rank (fent-les servir), que millora el estil de combat/els combos "3 ranks per arma" "3er rank permet enllaçar combos entre armes diferents"
+
+ Al personatge, Absorbeixes "Animes dels caiguts" quan mates enemics, I pots adquirir passives (arbre de passives).  
+)
+
+"Eines. Obtencions diverses. Plataformeig."
+
+Esquema història I apunts:
+Tots els bossos estan en ordre invers, de més nou a més vell, guian-te cap a la corrupció, sent el últim i el mes vell.
+
+Hi ha un marge de temps (Molt temps) entre que agafes l'arma per primer cop i la resta del joc.
+Durant aquest marge es desenvolupament es formen faccions com ara:
+La Resistència, a dins d'aquesta diversos esquadrons, govern màrcial.
+
+Alegret: LA DRUIDA
+Bons: LA CONQUISTADORA
+Marin: EL BUSCADORd
+
+
+----
+
+Sistema de combat (aprofundir)
+Bossos (tots)
+Enemics (tots)
+Història (99.9999%)
+(
+Contextualització (aprofundir)
+Personatges (Tot)
+)
+Programació (casi tot)
+Animació (casi tot)
+Disseny de mapes (tot)
+Disseny de zones (tot)
+Disseny de faccions (Bastant)
+
+
+
+----
+Pre-Historia
+Va apareixer la corrupció; i el segon fragment, per tal de contenir-la, va crear una arma capaç de donar forma a la seva anima, i contenir la corrupció. El segon fragment ho
+aconsegueix, però cau en la corrupció, invoca a un esser per vigilar la espasa per tota la eternitat i procedeix a suicidar-se. Seguidament es absorbit per l'arma i queda 
+sellat juntament amb la corrupció.
+3
+4
+5
+6
+7
+8
+9
+TU
+
+
+Et pilla un berrinche i surts corrent de casa, en el camí, et caus per un forat, o lo que sigui. Un cop allà arribes a un altar, amb una espasa i una estatua GRAN. la espasa 
+"et crida" i quan vas a agafar-la, la estatua t'intenta matar; agafes la espasa, i al defensar-te del guradià l'espasa explota. Just quan explota, un esperit et protegeix, però
+et quedes inconscient. Quan despertes, tot el ambient esta corrupte per cristalls. Aparaeix el esperit que t'explica la situació.
+
+
+
+

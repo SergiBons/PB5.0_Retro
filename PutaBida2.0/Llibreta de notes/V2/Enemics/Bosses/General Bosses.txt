@@ -1,0 +1,25 @@
+The Corruption		________ BOSS FINAL			1		-	
+The Second Shard	________ Origen amb la corrupció	2		Mandoble		Algo per matar la corrupció
+The Conqueror		Emperadriu "Romana"			3		Llança			Millora al primer atac cada X temps
+The Beast		Mercenari.				4		Hacha			"Atacs Cargats"
+The Druid		Un druida				5		Bastó			Llibre de Magia I Botelles
+The Storm		Assessina A sueldo amb màgia		6		Daga			Millora al dash
+The Saint		Lligada a una religió			7		Arco			Barrera/doble salt
+The Cheater		Trampos, 				8		Guadaña			Visio verdadera (al ajupirte)
+The Searcher		100tifiko Lko				9		Rapier "Estoque"	Bestiari
+The Adept							10
+
+
+
+
+
+The Cheater		Trampos, 				1		Guadaña			Visio verdadera (al ajupirte)
+The Searcher		100tifiko Lko				2		Rapier "Estoque"	Bestiari
+The Storm		Assessina A sueldo amb màgia		3		Daga			Millora al dash
+The Druid		Un druida				4		Bastó			Llibre de Magia I Botelles
+The Beast		Mercenari.				5		Hacha			"Atacs Cargats"
+The Saint		Lligada a una religió			6		Arco			Barrera/doble salt
+The Conqueror		Emperadriu "Romana"			7		Llança			Millora al primer atac cada X temps
+The Second Shard	________ Origen amb la corrupció	8		Mandoble		Algo per matar la corrupció
+The Corruption		________ BOSS FINAL			9		-	
+The Adept							10
